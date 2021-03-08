@@ -35,7 +35,7 @@ Complete the following tasks:
 
 ## Submission
 
-Submit the link to your forked repository on sakai.
+Submit the link to your forked repository on Sakai.
 
 ## Collaboration Policy
 
